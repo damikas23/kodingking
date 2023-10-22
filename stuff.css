@@ -1,0 +1,22 @@
+body{
+  background: #4a98f7;
+  display: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: whitesmoke;
+}
+img{
+  height: 50%;
+  width:70%;
+  border-radius: 10px;
+}
+textarea{
+  background: blue;
+  color: #fff;
+  width: 50%;
+  border-radius: 5px;
+}
+h1,h2,h3{
+  text-decoration: underline;
+}
